@@ -1,7 +1,7 @@
 #!/bin/bash
-#Script to build a docker images without mistake.
-#Author Rodrigue
-#Date April 2021
+# Script to build a docker images without mistake.
+# Author Rodrigue
+# Date April 2021
 
 D=Dockerfile
 IND=index.html
