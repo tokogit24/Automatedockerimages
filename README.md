@@ -1,1 +1,1 @@
-# Automatedockerimages
+# Automate docker images
